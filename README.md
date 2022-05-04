@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoru](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz İlk repo. İçerisinde bir adet **README** dosyası, bir adet de **index.html** barındırıyor.
 
+
 ![Repo Oluşturma Resmi](https://i.hizliresim.com/fqjb1nv.png)
 ## Installation
 
@@ -24,5 +25,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
